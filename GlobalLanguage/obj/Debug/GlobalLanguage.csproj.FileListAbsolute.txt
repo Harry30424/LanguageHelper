@@ -1,4 +1,3 @@
-D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\GlobalLanguage.dll.config
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\GlobalLanguage.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\GlobalLanguage.pdb
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\roslyn\csc.exe
@@ -51,6 +50,8 @@ D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\roslyn\vbc.rsp
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\roslyn\VBCSCompiler.exe
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\roslyn\VBCSCompiler.exe.config
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\Antlr3.Runtime.dll
+D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\EntityFramework.dll
+D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\EntityFramework.SqlServer.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\Microsoft.Web.Infrastructure.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\Newtonsoft.Json.dll
@@ -62,6 +63,8 @@ D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\System.Web.WebP
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\System.Web.WebPages.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\System.Web.WebPages.Razor.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\WebGrease.dll
+D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\EntityFramework.xml
+D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\EntityFramework.SqlServer.xml
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\System.Web.Helpers.xml
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\System.Web.Mvc.xml
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\System.Web.Optimization.xml
@@ -72,6 +75,7 @@ D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\System.Web.WebP
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\Newtonsoft.Json.xml
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\Antlr3.Runtime.pdb
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\zh-Hant\EntityFramework.resources.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\zh-Hant\System.Web.Helpers.resources.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\zh-Hant\System.Web.Mvc.resources.dll
 D:\Sourcecode\Repos\Harry30424\LanguageHelper\GlobalLanguage\bin\zh-Hant\System.Web.Optimization.resources.dll
